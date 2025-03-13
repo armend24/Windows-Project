@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Windows_Service
 {
-    class EmailData
+    public class EmailData
     {
 
         public string ToEmail { get; set; }

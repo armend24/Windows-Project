@@ -12,7 +12,11 @@ var services = new ServiceCollection();
 
 services
     .AddLogging(log => { log.ClearProviders(); log.AddNLog(); })
-    .AddSingleton(configFile);
+    .AddSingleton(configFile)
+    .AddScoped<Vezhgues>()
+    .AddScoped<IFileHandler, FileHandler>()
+    .AddScoped<IProgramManager, ProgramManager>()
+    .AddScoped<IEmailService, EmailService>();
 
 using (var serviceProvider = services.BuildServiceProvider())
 {
