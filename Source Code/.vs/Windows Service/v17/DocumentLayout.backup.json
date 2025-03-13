@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Windows-Service\\Source Code\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,12 +23,20 @@
       "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\testlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:testlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\vezhguesijobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:vezhguesijobfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\vezhgues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:vezhgues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -75,32 +95,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmailData.cs",
+              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\EmailData.cs",
+              "RelativeDocumentMoniker": "EmailData.cs",
+              "ToolTip": "C:\\Windows-Service\\Source Code\\EmailData.cs",
+              "RelativeToolTip": "EmailData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:12:19.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\FileHandler.cs",
+              "RelativeDocumentMoniker": "FileHandler.cs",
+              "ToolTip": "C:\\Windows-Service\\Source Code\\FileHandler.cs",
+              "RelativeToolTip": "FileHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:33:58.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileHandler.cs",
+              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\IFileHandler.cs",
+              "RelativeDocumentMoniker": "IFileHandler.cs",
+              "ToolTip": "C:\\Windows-Service\\Source Code\\IFileHandler.cs",
+              "RelativeToolTip": "IFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:27:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vezhgues.cs",
+              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\Vezhgues.cs",
+              "RelativeDocumentMoniker": "Vezhgues.cs",
+              "ToolTip": "C:\\Windows-Service\\Source Code\\Vezhgues.cs",
+              "RelativeToolTip": "Vezhgues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:27:38.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VezhguesiJobFactory.cs",
+              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\VezhguesiJobFactory.cs",
+              "RelativeDocumentMoniker": "VezhguesiJobFactory.cs",
+              "ToolTip": "C:\\Windows-Service\\Source Code\\VezhguesiJobFactory.cs",
+              "RelativeToolTip": "VezhguesiJobFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:25:09.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\Service.cs",
+              "RelativeDocumentMoniker": "Service.cs",
+              "ToolTip": "C:\\Windows-Service\\Source Code\\Service.cs",
+              "RelativeToolTip": "Service.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:16:38.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Windows-Service\\Source Code\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Windows-Service\\Source Code\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-03-07T12:28:35.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestLogin.cs",
-              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\TestLogin.cs",
-              "RelativeDocumentMoniker": "TestLogin.cs",
-              "ToolTip": "C:\\Windows-Service\\Source Code\\TestLogin.cs",
-              "RelativeToolTip": "TestLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T14:44:55.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "nlog.config",
               "DocumentMoniker": "C:\\Windows-Service\\Source Code\\nlog.config",
               "RelativeDocumentMoniker": "nlog.config",
@@ -113,13 +198,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Windows-Service\\Source Code\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Windows-Service\\Source Code\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T09:17:28.641Z",
               "EditorCaption": ""

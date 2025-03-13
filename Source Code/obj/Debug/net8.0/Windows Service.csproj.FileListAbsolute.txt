@@ -137,3 +137,4 @@ C:\Windows-Service\Source Code\obj\Debug\net8.0\refint\Windows Service.dll
 C:\Windows-Service\Source Code\obj\Debug\net8.0\Windows Service.pdb
 C:\Windows-Service\Source Code\obj\Debug\net8.0\Windows Service.genruntimeconfig.cache
 C:\Windows-Service\Source Code\obj\Debug\net8.0\ref\Windows Service.dll
+C:\Windows-Service\Source Code\obj\Debug\net8.0\Windows Service.sourcelink.json
