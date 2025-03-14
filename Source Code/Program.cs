@@ -6,7 +6,7 @@ using Topshelf;
 using Windows_Service;
 
 
-IConfiguration configFile = new ConfigurationBuilder().AddJsonFile("appsettings.json", false , true).Build();
+IConfiguration configFile = new ConfigurationBuilder().AddJsonFile("appsettings.json", false, true).Build();
 
 var services = new ServiceCollection();
 
@@ -23,8 +23,8 @@ using (var serviceProvider = services.BuildServiceProvider())
     HostFactory.Run(ser =>
     {
         ser.SetServiceName("Windows-Service");
-        ser.SetDisplayName("Windows-Service");
-        ser.SetDescription("Windows-Service...");
+        ser.SetDisplayName("Windows Service");
+        ser.SetDescription("Windows-Service does this and that...");
 
         ser.Service<Service>(s =>
         {
