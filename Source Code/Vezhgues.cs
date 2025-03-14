@@ -11,15 +11,15 @@ namespace Windows_Service
     public class Vezhgues : IJob
     {
 
-        //private readonly IProgramManager _manageri;
-        //public Vezhguesi(IProgramManager manageri)
-        //{
-        //    _manageri = manageri;
-        //}
+        private readonly IProgramManager _manageri;
+        public Vezhgues(IProgramManager manageri)
+        {
+            _manageri = manageri;
+        }
 
         public async Task Execute(IJobExecutionContext context)
         {
-            //await _manageri.BejPunen();
+            await _manageri.RunAsync();
         }
     }
 }

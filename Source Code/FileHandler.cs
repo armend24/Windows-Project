@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Windows_Service
 {
-    class FileHandler : IFileHandler
+    public class FileHandler : IFileHandler
     {
         private readonly string _filePath;
 

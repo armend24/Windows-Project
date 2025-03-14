@@ -8,8 +8,6 @@ namespace Windows_Service
 {
     public interface IProgramManager
     {
-
         Task RunAsync();
-
     }
 }

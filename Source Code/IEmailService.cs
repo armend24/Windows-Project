@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Windows_Service
 {
-    interface IEmailService
+    public interface IEmailService
     {
         Task SendEmailAsync(EmailData emailData);
 

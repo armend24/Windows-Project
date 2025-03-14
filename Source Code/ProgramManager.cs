@@ -14,7 +14,13 @@ namespace Windows_Service
         private readonly IEmailService _emailService;
         private readonly IFileHandler _fileHandler;
 
-        public async Task BejPunen()
+        public ProgramManager(ILogger<ProgramManager> logger, IEmailService emailService, IFileHandler fileHandler)
+        {
+            _logger = logger;
+            _emailService = emailService;
+            _fileHandler = fileHandler;
+        }
+        public async Task RunAsync()
         {
             try
             {
@@ -22,8 +28,8 @@ namespace Windows_Service
                 {
                     await _emailService.SendEmailAsync(new EmailData { 
                         Body = item, 
-                        Subject = "test", 
-                        ToEmail = "hellohello2406@gmail.com", 
+                        Subject = $"Report {DateTime.Now:yyyy-MM-dd HH:mm:ss}", 
+                        ToEmail = "hello@gmail.com", 
                         ToName = "Armend" 
                     });
                 }

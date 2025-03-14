@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Windows_Service
 {
-
         public interface IFileHandler
         {
             IEnumerable<string> ReadContent();
