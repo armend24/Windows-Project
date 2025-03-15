@@ -69,7 +69,7 @@ namespace Windows_Service
                 }
 
 
-                emailMessage.ReplyToList.Add(new MailAddress("a.dalipi@live.com"));
+                emailMessage.ReplyToList.Add(new MailAddress("hellohello2406@gmail.com"));
 
                 await emailClient.SendMailAsync(emailMessage);
                 _logger.LogInformation($"Finished sending: {emailData.ToEmail}, with subject {emailData.Subject}");
