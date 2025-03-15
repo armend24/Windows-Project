@@ -60,7 +60,7 @@ namespace Windows_Service
                 emailMessage.IsBodyHtml = true; // default false
 
 
-                //if (emailData.Attachments != null)
+                if (emailData.Attachments != null)
                 {
                     foreach (var item in emailData.Attachments)
                     {

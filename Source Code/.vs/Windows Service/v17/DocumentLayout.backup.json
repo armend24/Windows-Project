@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Windows-Service\\Source Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\programmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +15,20 @@
       "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:iprogrammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|solutionrelative:emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15B505EA-966A-4389-ACE1-AC7FEB39106D}|Windows Service.csproj|c:\\windows-service\\source code\\emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,29 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "FileHandler.cs",
               "DocumentMoniker": "C:\\Windows-Service\\Source Code\\FileHandler.cs",
               "RelativeDocumentMoniker": "FileHandler.cs",
               "ToolTip": "C:\\Windows-Service\\Source Code\\FileHandler.cs",
               "RelativeToolTip": "FileHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T21:33:58.848Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -122,27 +117,14 @@
               "RelativeDocumentMoniker": "ProgramManager.cs",
               "ToolTip": "C:\\Windows-Service\\Source Code\\ProgramManager.cs",
               "RelativeToolTip": "ProgramManager.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwB8AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwB8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T21:33:46.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProgramManager.cs",
-              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\IProgramManager.cs",
-              "RelativeDocumentMoniker": "IProgramManager.cs",
-              "ToolTip": "C:\\Windows-Service\\Source Code\\IProgramManager.cs",
-              "RelativeToolTip": "IProgramManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:33:29.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IFileHandler.cs",
               "DocumentMoniker": "C:\\Windows-Service\\Source Code\\IFileHandler.cs",
               "RelativeDocumentMoniker": "IFileHandler.cs",
@@ -150,12 +132,11 @@
               "RelativeToolTip": "IFileHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:33:18.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T21:33:18.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Windows-Service\\Source Code\\IEmailService.cs",
               "RelativeDocumentMoniker": "IEmailService.cs",
@@ -176,12 +157,37 @@
               "RelativeToolTip": "EmailData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:32:38.86Z",
+              "WhenOpened": "2025-03-14T21:32:38.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\EmailService.cs",
+              "RelativeDocumentMoniker": "EmailService.cs",
+              "ToolTip": "C:\\Windows-Service\\Source Code\\EmailService.cs",
+              "RelativeToolTip": "EmailService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:06:33.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "IProgramManager.cs",
+              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\IProgramManager.cs",
+              "RelativeDocumentMoniker": "IProgramManager.cs",
+              "ToolTip": "C:\\Windows-Service\\Source Code\\IProgramManager.cs",
+              "RelativeToolTip": "IProgramManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:33:29.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EmailSettings.cs",
               "DocumentMoniker": "C:\\Windows-Service\\Source Code\\EmailSettings.cs",
               "RelativeDocumentMoniker": "EmailSettings.cs",
@@ -189,21 +195,7 @@
               "RelativeToolTip": "EmailSettings.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T15:42:18.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Windows-Service\\Source Code\\EmailService.cs",
-              "RelativeDocumentMoniker": "EmailService.cs",
-              "ToolTip": "C:\\Windows-Service\\Source Code\\EmailService.cs",
-              "RelativeToolTip": "EmailService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wDcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T16:06:33.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T15:42:18.102Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T14:28:29.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T14:28:29.87Z"
             },
             {
               "$type": "Document",
@@ -228,8 +219,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T20:23:33.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T20:23:33.514Z"
             }
           ]
         }
